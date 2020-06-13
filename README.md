@@ -5,7 +5,14 @@ Swift and easy access to mental health specialist
 
 ## About
 
-Swiftana is a mental health assistant bot that assist users concerning their mental health problems. It give recommendations on possible cure or remedies base on the users health sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to human specialist in their location. The project is in line with the Sustainable Development Goal(SDG goal 3), problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
+Mental health is an area that has continued to widely impact the society in which we live. Various people from different parts of the world have had to deal with this issue for various unique or similar reasons. This condition has gone on to impact the lives of the affected people in various ways. There exists a number of scientific-backed solutions that have been proven to help to combat this situation. Most of these solutions involve interaction with health professionals. 
+However, mental health problems are usually associated with a lot of stigma which may make it difficult for some people to come out and seek help. For this reason, it is crucial to provide another outlet or outlet through which patients can get useful information to help them to deal with the situation. 
+
+In view of the problem statement above, a viable solution would be to provide a platform through which patients can get useful information that can assist them to deal with mental health problems. The idea is to use machine learning on the various pieces of health data to try to diagnose patients for the various types of mental health problems that they have and propose solutions accordingly.
+The approach taken is to use an intelligent agent (chat bot) that patients can interact with and get the information that can assist their unique conditions. 
+
+
+Swiftana is a mental health assistant bot created to help provide remedies to mental health problems in our society. It give recommendations on possible cure or remedies base on the users health issues or sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to nearby specialist in their location. The project is in line with the Sustainable Development Goal(SDG goal 3), problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
 
 ## Why
 
