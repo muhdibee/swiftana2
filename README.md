@@ -102,7 +102,7 @@ First, you can send a mail to buildforsdg@andela.com to indicate your interest, 
 MIT
 
 # READ MORE ABOUT MENTAL HEALTH DISORDER
-Depression:- a group of conditions associated with elevation or lowering ofa person's mood.
+Depression:- a group of conditions associated with elevation or lowering of a person's mood.
 Symptoms may be ongoing or come and go. 
 Common Types
 1. Clinical Depression
