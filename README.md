@@ -1,43 +1,46 @@
-A one-liner phrase describing this project or app
+Swift and easy access to mental health specialist
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6febb0505f7497f8fd5bbf3e9126be0)](https://app.codacy.com/gh/BuildForSDG/swiftana2?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/swiftana2&utm_campaign=Badge_Grade_Settings)
 
 
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
-
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
-
-This is a simple python starter repo template for setting up your project. The setup contains:
-
-- install: poetry via pip. poetry is a dependecy manager.
-
-- poetry: configuration in pyproject.toml
-
-- flake8: for linting and formatting
+Swiftana is a mental health assistant chatting bot that assist users concerning their mental health problems. It give recommendations on possible cure or remedies base on the users health sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to real human specialist nearest to their location.
 
 ## Why
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are important
+From time to time, many people surver from one mental disorder or the other such as depression, anxiety, schizophrenia, eating disorders, Feeling sad or down, addictive behaviors, Extreme mood changes of highs and lows, Sex drive changes, Excessive anger, hostility or violence, Inability to cope with daily problems or stress, Suicidal thinking among others.These mental illness can make you miserable and can cause problems in your daily life. In most cases, symptoms of mental helath disorder can be managed with one or combination of medications and talk to therapy (psychotherapy).
+
+For instance, It was revealved that one in four Nigerians suffers from mental illness (https://www.aljazeera.com/ajimpact/nigeria-mental-health-problem-191002210913630.html). In a country where it is estimated that the ratio of Psychiatrists to patients is 0.09 ratio 100,000 persons. This in turn has resulted to an overwhelming workload for the psychiatrists and patients need to que for hours before getting consultation. Swiftana try to reduce the workload on these limited pssychiatrists by handling some of their request  where possible.
 
 ## Usage
-How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
-
+How Swiftana work
+1. Users start by visiting the platform https://lit-dusk-59445.herokuapp.com/
+2. Swiftana welcome users, greet them and ask for their systoms (As a user, start by typing "hello", "hi" etc)
+3. Swiftana gives recommended remedies for users symtoms treatment
+5. If user need to talk to real human specialist, Swiftana as for users location and show them contact details of specialist in their location. (As a user type "from Nigeria"
 
 ## Setup
-You should have **Python 3.5+** and **git** installed. 
+You should have **Python 3.6 installed on your window machine with the following version of packages.
+Flask==1.1.2
+nltk==3.5
+numpy==1.16.4
+Pillow==7.1.2
+scikit-learn==0.23.1
+tensorflow==1.5.0
+tflearn==0.3.2
+windows-curses==2.1.0
 
-1. Clone the repo you've created from the template herein and change into the directory
+1. Clone the repo you've created from the template herein and change into the directory e.g
 
     ``
-    git clone <Your Repository>
+    git clone <this repository>
     ``
 
-2. Change into repo directory
+2. Change into src directory
 
     ``
-    cd python-starter
+    cd src
     ``
 
 3. Install poetry, a dependecy manager for python.
@@ -81,20 +84,6 @@ You should have **Python 3.5+** and **git** installed.
 
 #### To Note
 `src/app.py` is the entry to the project and source code should go into the `src` folder.
-
-All tests should be written in the `tests` folder. tests/test_src.py is a sample test file that shows how tests should like. Feel free to delete it.
-
-#### Hints
-
-- Lint: `poetry run flake8`
-- Run tests using the command: `poetry run pytest`
-- Install dependencies: 
-  `poetry add <dependency>`
-- Install dev dependencies:
-  `poetry add --dev <dev-dependency>`
-- Run your project:
-  `poetry run app`
-
 
 ## Authors
 
