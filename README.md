@@ -274,4 +274,9 @@ Many herbs, supplements, and vitamins claim to help ease symptoms of depression,
 
 Learn about herbs, vitamins, and supplements that have shown some promise, and ask your healthcare provider if any are right for you.
 
+## REFERENCES
+1.	The world health report (https://www.who.int/whr/2001/chapter3/en/index1.html)
+2.	United Nations Development Programme: Sustainable Development Goals (SDGs) (https://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
+3. 	Nigeria has a mental health problem (https://www.aljazeera.com/ajimpact/nigeria-mental-health-problem-191002210913630.html)
+
 
