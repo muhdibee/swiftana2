@@ -24,12 +24,12 @@ A user goes online and accesses the bot using a given URL after which they can s
 1. Visit https://lit-dusk-59445.herokuapp.com/
 2. Type "Hello"
 3. Reply the bot by typing "I have been thinking suicide for days"
-4. Then tupe "nearest hostipal"
+4. Then type "nearest hostipal"
 5. Enter "Nigeria" as your location
 6. You will get the list of specialist 
 
 ## Setup
-You should have **Python 3.6 installed on your window machine with the following version of packages.
+You should have **Python 3.6 installed on your window machine with the following version of python packages.
 Flask==1.1.2
 nltk==3.5
 numpy==1.16.4
