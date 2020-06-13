@@ -6,26 +6,26 @@ Swift and easy access to mental health specialist
 ## About
 
 Mental health is an area that has continued to widely impact the society in which we live. Various people from different parts of the world have had to deal with this issue for various unique or similar reasons. This condition has gone on to impact the lives of the affected people in various ways. There exists a number of scientific-backed solutions that have been proven to help to combat this situation. Most of these solutions involve interaction with health professionals. 
-However, mental health problems are usually associated with a lot of stigma which may make it difficult for some people to come out and seek help. For this reason, it is crucial to provide another outlet or outlet through which patients can get useful information to help them to deal with the situation. 
+However, mental health problems are usually associated with a lot of stigma which may make it difficult for some people to come out and seek help. For this reason, it is crucial to provide another outlet or outlet through which patients can get useful information to help them to deal with the situation. Mental health disorder is common in our society more than you may ever think. For instance in Nigeria, It is estimated by World Health Organization (WHO) that One in four Nigerians - some 50 million people - are suffering from some sort of mental illness. In a country where mental health disorder patient ratio to health specialist is 0.09 ratio 100,000. This in turn has resulted to an overwhelming workload for the mental health specialist and many patients need to que for hours before getting consultation or not being able to get consultant at all.  
 
 In view of the problem statement above, a viable solution would be to provide a platform through which patients can get useful information that can assist them to deal with mental health problems. The idea is to use machine learning on the various pieces of health data to try to diagnose patients for the various types of mental health problems that they have and propose solutions accordingly.
 The approach taken is to use an intelligent agent (chat bot) that patients can interact with and get the information that can assist their unique conditions. 
 
-
-Swiftana is a mental health assistant bot created to help provide remedies to mental health problems in our society. It give recommendations on possible cure or remedies base on the users health issues or sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to nearby specialist in their location. The project is in line with the Sustainable Development Goal(SDG goal 3), problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
-
-## Why
-
-From time to time, many people surver from one mental disorder or the other such as depression, anxiety, schizophrenia, eating disorders, Feeling sad or down, addictive behaviors, Extreme mood changes of highs and lows, Sex drive changes, Excessive anger, hostility or violence, Inability to cope with daily problems or stress, Suicidal thinking among others.These mental illness can make you miserable and can cause problems in your daily life. In most cases, symptoms of mental helath disorder can be managed with one or combination of medications and talk to therapy (psychotherapy).
-
-For instance, It was revealved that one in four Nigerians suffers from mental illness (https://www.aljazeera.com/ajimpact/nigeria-mental-health-problem-191002210913630.html). In a country where it is estimated that the ratio of Psychiatrists to patients is 0.09 ratio 100,000 persons. This in turn has resulted to an overwhelming workload for the psychiatrists and patients need to que for hours before getting consultation. Swiftana try to reduce the workload on these limited pssychiatrists by handling some of their request  where possible. Read more about mental health disorder down below this page
-
 ## Usage
-How Swiftana work
-1. Users start by visiting the platform https://lit-dusk-59445.herokuapp.com/
-2. Swiftana welcome users, greet them and ask for their systoms (As a user, start by typing "hello", "hi" etc)
-3. Swiftana gives recommended remedies for users symtoms treatment
-5. If user need to talk to real human specialist, Swiftana as for users location and show them contact details of specialist in their location. (As a user type "from Nigeria"
+
+### How it work
+
+Swiftana is a mental health assistant bot created to help provide remedies to this ravaging mental health problems baffling our society. Swiftana work by given recommendations on possible cure or remedies base on the users health issues or sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to nearby specialist or outpatient clinic in their location. The project is in line with the Sustainable Development Goal(SDG goal 3), problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
+
+A user goes online and accesses the bot using a given URL after which they can start interacting with the system. The user can type in any relevant information and the bot will give a relevant response accordingly. The bot suggests possible remedies or recommendations that the user can make use of to assist them with their various conditions. After successful interaction, the bot suggests the nearest hospitals that offer mental health services that the patients can visit in order to seek further assistance. 
+
+### Practical usage
+1. Visit https://lit-dusk-59445.herokuapp.com/
+2. Type "Hello"
+3. Reply the bot by typing "I have been thinking suicide for days"
+4. Then tupe "nearest hostipal"
+5. Enter "Nigeria" as your location
+6. You will get the list of specialist 
 
 ## Setup
 You should have **Python 3.6 installed on your window machine with the following version of packages.
