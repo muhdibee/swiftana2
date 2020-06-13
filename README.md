@@ -1,4 +1,4 @@
-Swift and easy access to mental health specialist
+Swift remedy to mental health problems
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6febb0505f7497f8fd5bbf3e9126be0)](https://app.codacy.com/gh/BuildForSDG/swiftana2?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/swiftana2&utm_campaign=Badge_Grade_Settings)
 
