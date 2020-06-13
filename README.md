@@ -5,13 +5,13 @@ Swift and easy access to mental health specialist
 
 ## About
 
-Swiftana is a mental health assistant bot that assist users concerning their mental health problems. It give recommendations on possible cure or remedies base on the users health sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to real human specialist nearest to their location. The project is in Sustainable Development Goal(SDG) goal 3, problem statmeent 1 of the Andela build for SDG project.
+Swiftana is a mental health assistant bot that assist users concerning their mental health problems. It give recommendations on possible cure or remedies base on the users health sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to real human specialist nearest to their location. The project is in Sustainable Development Goal(SDG) goal 3, problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
 
 ## Why
 
 From time to time, many people surver from one mental disorder or the other such as depression, anxiety, schizophrenia, eating disorders, Feeling sad or down, addictive behaviors, Extreme mood changes of highs and lows, Sex drive changes, Excessive anger, hostility or violence, Inability to cope with daily problems or stress, Suicidal thinking among others.These mental illness can make you miserable and can cause problems in your daily life. In most cases, symptoms of mental helath disorder can be managed with one or combination of medications and talk to therapy (psychotherapy).
 
-For instance, It was revealved that one in four Nigerians suffers from mental illness (https://www.aljazeera.com/ajimpact/nigeria-mental-health-problem-191002210913630.html). In a country where it is estimated that the ratio of Psychiatrists to patients is 0.09 ratio 100,000 persons. This in turn has resulted to an overwhelming workload for the psychiatrists and patients need to que for hours before getting consultation. Swiftana try to reduce the workload on these limited pssychiatrists by handling some of their request  where possible.
+For instance, It was revealved that one in four Nigerians suffers from mental illness (https://www.aljazeera.com/ajimpact/nigeria-mental-health-problem-191002210913630.html). In a country where it is estimated that the ratio of Psychiatrists to patients is 0.09 ratio 100,000 persons. This in turn has resulted to an overwhelming workload for the psychiatrists and patients need to que for hours before getting consultation. Swiftana try to reduce the workload on these limited pssychiatrists by handling some of their request  where possible. Read more about mental health disorder down below this page
 
 ## Usage
 How Swiftana work
@@ -98,11 +98,170 @@ First, you can send a mail to buildforsdg@andela.com to indicate your interest, 
 
 ## Acknowledgements
 
-Did you use someone else’s code?
-Do you want to thank someone explicitly?
-Did someone’s blog post spark off a wonderful idea or give you a solution to nagging problem?
-
-It's powerful to always give credit.
-
 ## LICENSE
 MIT
+
+# READ MORE ABOUT MENTAL HEALTH DISORDER
+Depression:- a group of conditions associated with elevation or lowering ofa person's mood.
+Symptoms may be ongoing or come and go. 
+Common Types
+1. Clinical Depression
+Mental Health Disorder characterized by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life
+A more severe form of depression characterized by persistent feelings of sadness, hopelessness, and worthlessness that don’t go away on their own.
+In order to be diagnosed with clinical depression, 
+	you must experience 5 or more of the following symptoms over a 2-week period:
+	-feeling depressed most of the day
+	-loss of interest in most regular activities
+	-significant weight loss or gain
+	-sleeping a lot or not being able to sleep
+	-slowed thinking or movement
+	-fatigue or low energy most days
+	-feelings of worthlessness or guilt
+	-loss of concentration or indecisiveness
+	-recurring thoughts of death or suicide
+2. Persistent depressive disorder/dysthmia
+Mild, chronic form of depression
+A mild but long-term form of depression
+Proper diagnosis includes symptoms being evident for at least two years
+It’s common for people with PDD to:
+•	lose interest in normal daily activities
+•	feel hopeless
+•	lack productivity
+•	have low self-esteem
+3. Bipolar Disorder
+A disorder associated with episodes of mood swings ranging from 
+depressive lows to manic highs
+
+
+4. Bipolar II disorder
+A less severe type of bipolar disorder characterized by depressive and 
+hypomanic episodes
+
+5. Postnatal Depression
+Depression that occurs after childbirth
+
+Symptoms of Depression
+MEN
+- mood: such as anger, aggressiveness, irritability, anxiousness, restlessness
+- emotional well-being: such as feeling empty, sad, hopeless
+- behavior: such as loss of interest, no longer finding pleasure in favorite activities, feeling tired easily, thoughts of suicide, drinking excessively, using drugs, engaging in high-risk activities
+- sexual interest: such as reduced sexual desire, lack of sexual performance
+- cognitive abilities: such as inability to concentrate, difficulty completing tasks, delayed responses during conversations
+- sleep patterns: such as insomnia, restless sleep, excessive sleepiness, not sleeping through the night
+- physical well-being: such as fatigue, pains, headache, digestive problems
+
+WOMEN
+- mood: such as irritability
+- emotional well-being: such as feeling sad or empty, anxious or hopeless
+- behavior: such as loss of interest in activities, withdrawing from social engagements, thoughts of suicide
+- cognitive abilities: such as thinking or talking more slowly
+- sleep patterns: such as difficulty sleeping through the night, waking early, sleeping too much
+- physical well-being: such as decreased energy, greater fatigue, changes in appetite, weight changes, aches, pain, headaches, increased cramps
+
+CHILDREN
+Children may experience symptoms related to their:- mood: such as irritability, anger, mood swings, crying
+- emotional well-being: such as feelings of incompetence (e.g. “I can’t do anything right”) or despair, crying, intense sadness
+- behavior: such as getting into trouble at school or refusing to go to school, avoiding friends or siblings, thoughts of death or suicide
+- cognitive abilities: such as difficulty concentrating, decline in school performance, changes in grades
+- sleep patterns: such as difficulty sleeping or sleeping too much
+- physical well-being: such as loss of energy, digestive problems,
+ changes in appetite, weight loss or gain
+
+
+	Common causes of Depression	
+- Family history: You’re at a higher risk for developing depression if you have a family history of depression or another mood disorder.
+- Early childhood trauma: Some events affect the way your body reacts to fear and stressful situations.
+- Brain structure: There’s a greater risk for depression if the frontal lobe of your brain is less active. 
+	However, scientists don’t know if this happens before or after the onset of depressive symptoms.
+- Medical conditions: Certain conditions may put you at higher risk, such as chronic illness, insomnia, chronic pain, or attention-deficit hyperactivity disorder (ADHD).
+- Drug use: A history of drug or alcohol misuse can affect your risk.
+
+DEPRESSION TEST
+
+There isn’t a single test to diagnose depression.
+But your healthcare provider can make a diagnosis based on the symptoms and a psychological evaluation.
+Some of the questions asked include:
+-moods
+-appetite
+-sleep pattern
+-activity level
+-thoughts
+Health issues such as thyroid problems or a vitamin D deficiency can trigger symptoms of depression.
+
+DANGERS OF DEPRESSION
+-weight gain or loss
+-physical pain
+-substance use problems
+-panic attacks
+-relationship problems
+-social isolation
+-thoughts of suicide
+-self-harm
+
+Treatment for depression
+Living with depression can be difficult, but treatment can help improve your quality of life. Talk to your healthcare provider about possible options.
+You may successfully manage symptoms with one form of treatment, or you may find that a combination of treatments works best.
+It’s common to combine medical treatments and lifestyle therapies, including the following:
+Medications
+Your healthcare provider may prescribe:
+•	antidepressants
+•	antianxiety
+•	antipsychotic medications
+Each type of medication that’s used to treat depression has benefits and potential risks.
+
+Psychotherapy
+Speaking with a therapist can help you learn skills to cope with negative feelings. You may also benefit from family or group therapy sessions.
+
+Light therapy
+Exposure to doses of white light can help regulate your mood and improve symptoms of depression. Light therapy is commonly used in seasonal affective disorder, which is now called major depressive disorder with seasonal pattern.
+Alternative therapies
+Ask your healthcare provider about acupuncture or meditation. Some herbal supplements are also used to treat depression, like St. John’s wort, SAMe, and fish oil.
+Talk with your healthcare provider before taking a supplement or combining a supplement with prescription medication because some supplements can react with certain medications. Some supplements may also worsen depression or reduce the effectiveness of medication.
+Exercise
+Aim for 30 minutes of physical activity 3 to 5 days a week. Exercise can increase your body’s production of endorphins, which are hormones that improve your mood.
+
+Avoid alcohol and drugs
+Drinking or misusing drugs may make you feel better for a little bit. But in the long run, these substances can make depression and anxiety symptoms worse.
+
+Learn how to say no
+Feeling overwhelmed can worsen anxiety and depression symptoms. Setting boundaries in your professional and personal life can help you feel better.
+
+Take care of yourself
+You can also improve symptoms of depression by taking care of yourself. This includes getting plenty of sleep, eating a healthy diet, avoiding negative people, and participating in enjoyable activities.
+
+Sometimes depression doesn’t respond to medication. Your healthcare provider may recommend other treatment options if your symptoms don’t improve.
+
+These include electroconvulsive therapy (ECT), or repetitive transcranial magnetic stimulation (rTMS) to treat depression and improve your mood.
+
+
+Natural treatment for depression
+Traditional depression treatment uses a combination of prescription medication and counseling. But there are also alternative or complementary treatments you can try.
+It’s important to remember that many of these natural treatments have few studies showing their effects on depression, good or bad.
+Likewise, the U.S. Food and Drug Administration (FDA) doesn’t approve many of the dietary supplements on the market in the United States, so you want to make sure you’re buying products from a trustworthy brand.
+Talk to your healthcare provider before adding supplements to your treatment plan.
+
+Supplements
+Several types of supplements are thought to have some positive effect on depression symptoms.
+St. John’s wort
+Studies are mixed, but this natural treatment is used in Europe as an antidepressant medication. In the United States, it hasn’t received the same approval.
+S-adenosyl-L-methionine (SAMe)
+This compound has shown in limited studies to possibly ease symptoms of depression. The effects were best seen in people taking selective serotonin reuptake inhibitors (SSRIs), a type of traditional antidepressant.
+5-hydroxytryptophan (5-HTP)
+5-HTP may raise serotonin levels in the brain, which could ease symptoms. Your body makes this chemical when you consume tryptophan, a protein building block.
+Omega-3 fatty acids
+These essential fats are important to neurological development and brain health. Adding omega-3 supplements to your diet may help reduce depression symptoms.
+Essential oils
+Essential oils are a popular natural remedy for many conditions, but research into their effects on depression is limited.
+People with depression may find symptom relief with the following essential oils:
+Wild ginger: Inhaling this strong scent may activate serotonin receptors in your brain. This may slow the release of stress-inducing hormones.
+Bergamot: This citrusy essential oil has been shown to reduce anxiety in patients awaiting surgery. The same benefit may help individuals who experience anxiety as a result of depression, but there’s no research to support that claim.
+Other oils, such as chamomile or rose oil, may have a calming effect when they’re inhaled. Those oils may be beneficial during short-term use.
+Vitamins
+Vitamins are important to many bodily functions. Research suggests two vitamins are especially useful for easing symptoms of depression:
+Vitamin B: B-12 and B-6 are vital to brain health. When your vitamin B levels are low, your risk for developing depression may be higher.
+Vitamin D: Sometimes called the sunshine vitamin because exposure to the sun supplies it to your body, Vitamin D is important for brain, heart, and bone health. People who are depressed are more likely to have low levels of this vitamin.
+Many herbs, supplements, and vitamins claim to help ease symptoms of depression, but most haven’t shown themselves to be effective in clinical research.
+
+Learn about herbs, vitamins, and supplements that have shown some promise, and ask your healthcare provider if any are right for you.
+
+
