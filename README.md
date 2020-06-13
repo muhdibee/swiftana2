@@ -5,7 +5,7 @@ Swift and easy access to mental health specialist
 
 ## About
 
-Swiftana is a mental health assistant bot that assist users concerning their mental health problems. It give recommendations on possible cure or remedies base on the users health sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to real human specialist nearest to their location. The project is in Sustainable Development Goal(SDG) goal 3, problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
+Swiftana is a mental health assistant bot that assist users concerning their mental health problems. It give recommendations on possible cure or remedies base on the users health sysmtoms. In a situation whereby the bot can not handle the user request or the user need to talk to a real human consultant, the bot connect them to human specialist in their location. The project is in line with the Sustainable Development Goal(SDG goal 3), problem statmeent 1 of the Andela build for SDG project. Read more about mental health disorder down below this page
 
 ## Why
 
