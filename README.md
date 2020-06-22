@@ -112,7 +112,26 @@ First, you can send a mail to buildforsdg@andela.com to indicate your interest, 
 MIT
 
 # READ MORE ABOUT MENTAL HEALTH DISORDER
-Depression:- a group of conditions associated with elevation or lowering of a person's mood.
+Mental health disorder or illness? According to World Health Organization,  Mental health is a state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and  is able to make a contribution to his or her community. On the other hand, Mental health disorders or illness refers to a wide range of mental health conditions-disorders that affect your mood, your thinking and your behaviour. Examples include depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviours etc.
+Signs and symptoms of mental illness can vary, depending on the disorder, circumstances and other factors. Mental illness symptoms can affect emotions, thoughts and behaviors.
+Examples of signs and symptoms include:
+	Feeling sad or down
+	Confused thinking or reduced ability to concentrate
+	Excessive fears or worries, or extreme feelings of guilt
+	Extreme mood changes of highs and lows
+	Withdrawal from friends and activities
+	Significant tiredness, low energy or problems sleeping
+	Detachment from reality (delusions), paranoia or hallucinations
+	Inability to cope with daily problems or stress
+	Trouble understanding and relating to situations and to people
+	Problems with alcohol or drug use
+	Major changes in eating habits
+	Sex drive changes
+	Excessive anger, hostility or violence
+	Suicidal thinking
+
+## Depression:- 
+a group of conditions associated with elevation or lowering of a person's mood.
 Symptoms may be ongoing or come and go. 
 Common Types
 1. Clinical Depression
